@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=md9
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=k
+comment2.target=void\ factor(int)
+comment3.params=p
+comment3.target=void\ prime_fact(int)
+numComments=4

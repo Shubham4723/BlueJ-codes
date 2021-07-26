@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=menu_per
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ m
+comment2.target=void\ perfects(int,\ int)
+numComments=3

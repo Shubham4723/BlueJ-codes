@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=menu96
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ sum_multi_of_4(int)
+comment3.params=n
+comment3.target=void\ sum_fact(int)
+numComments=4
